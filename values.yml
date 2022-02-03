@@ -1,0 +1,4 @@
+gitProvider: my_github
+artifactory: demoArt
+repoPath: iwashitah/Demo
+deployerRepo: maven
